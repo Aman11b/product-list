@@ -527,7 +527,7 @@ body {
 
 .confirmed-order-container > svg {
   aspect-ratio: 1;
-  height: 200px;
+  height: fit-content;
 }
 
 /* tablet */
